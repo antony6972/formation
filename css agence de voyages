@@ -95,8 +95,8 @@ header nav ul a
 #main-image
 {
     height:580px;
-    background:url("http://www.soccers.fr/uploads/monthly_2018_11/main1.jpg.531481b8025685a3eccbc410c371e90c.jpg") center;
-    }
+    background:url("http://www.soccers.fr/uploads/monthly_2018_11/main1.jpg.531481b8025685a3eccbc410c371e90c.jpg")center;
+}
 
 #main-image h2
 {
