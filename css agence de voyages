@@ -2,9 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
-/*GENERAL */
-
 *
 {
     margin: 0px;
